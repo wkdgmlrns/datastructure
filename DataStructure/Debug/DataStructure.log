@@ -1,0 +1,10 @@
+﻿  Array.cpp
+c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(14): error C2572: 'GameEntry::GameEntry': 기본 인수 재정의. 매개 변수 1
+  c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(7): note: 'GameEntry::GameEntry' 선언을 참조하십시오.
+c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(14): error C2572: 'GameEntry::GameEntry': 기본 인수 재정의. 매개 변수 2
+  c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(7): note: 'GameEntry::GameEntry' 선언을 참조하십시오.
+c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(36): error C2572: 'Score::Score': 기본 인수 재정의. 매개 변수 1
+  c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(27): note: 'Score::Score' 선언을 참조하십시오.
+c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(51): error C3867: 'GameEntry::getScore': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(51): error C2446: '<=': 'int (__thiscall GameEntry::* )(void) const'에서 'int'(으)로 변환되지 않았습니다.
+  c:\users\wkdgm\source\repos\project6\datastructure\array.cpp(51): note: 이 변환이 가능한 컨텍스트가 없습니다.
